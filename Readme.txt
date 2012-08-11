@@ -15,6 +15,6 @@ Plan:
 Ideas:
 - Definitely want to include support for album art
 - Possibly support for duplicate reporting
-- "Near Match" artist support (i.e. "The B-52's" and "B-52's") 
+- "Near Match" artist support (i.e. "The B-52's" and "B-52s") 
 - Report missing tag information (i.e. Album Artist, Year, etc.)
 
