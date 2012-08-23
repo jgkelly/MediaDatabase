@@ -8,23 +8,34 @@
 	"buffers":
 	[
 		{
-			"file": "Readme.txt",
+			"file": "Readme.md",
 			"settings":
 			{
-				"buffer_size": 714,
-				"line_ending": "Windows",
-				"name": "Readme.txt"
+				"buffer_size": 708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "LICENSE",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 58.0,
+		"height": 150.0,
 		"selected_items":
 		[
 			[
 				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:instal",
 				"Package Control: Install Package"
 			],
 			[
@@ -69,6 +80,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/database/readme-database.txt",
+		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/license.txt",
+		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/Readme.txt",
+		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/Music Database.sublime-project",
 		"/C/dev/Messenger-trunk/Messaging/Base/Module.cs",
 		"/C/dev/Messenger-trunk/bp2006.proj",
 		"/C/dev/Messenger-trunk/CommtechMessengerInstaller/CommtechMessenger/Product.wxs",
@@ -119,28 +134,53 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Readme.txt",
+					"file": "Readme.md",
 					"settings":
 					{
-						"buffer_size": 714,
+						"buffer_size": 708,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								714,
-								714
+								477,
+								477
 							]
 						],
 						"settings":
 						{
-							"auto_name": "Readme.txt",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LICENSE",
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
