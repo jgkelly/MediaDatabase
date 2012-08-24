@@ -1,24 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.ServiceProcess;
-using System.Text;
+﻿using System.ServiceProcess;
+using Service;
 
-namespace Service
+namespace MediaDatabase.Service
 {
-   static class Program
-   {
-      /// <summary>
-      /// The main entry point for the application.
-      /// </summary>
-      static void Main()
-      {
-         ServiceBase[] ServicesToRun;
-         ServicesToRun = new ServiceBase[] 
+	static class Program
+	{
+		/// <summary>
+		/// The main entry point for the application.
+		/// </summary>
+		static void Main()
+		{
+			ServiceBase[] ServicesToRun;
+			ServicesToRun = new ServiceBase[] 
 			{ 
-				new Main() 
+				new MediaDatabaseService() 
 			};
-         ServiceBase.Run(ServicesToRun);
-      }
-   }
+			ServiceBase.Run(ServicesToRun);
+		}
+	}
 }
