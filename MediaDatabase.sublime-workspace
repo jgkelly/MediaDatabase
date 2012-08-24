@@ -7,27 +7,11 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Readme.md",
-			"settings":
-			{
-				"buffer_size": 708,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "LICENSE",
-			"settings":
-			{
-				"buffer_size": 156,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 150.0,
+		"height": 35.0,
 		"selected_items":
 		[
 			[
@@ -80,6 +64,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jeff/Documents/GitHub/MediaDatabase/Readme.md",
+		"/C/Users/Jeff/Documents/GitHub/MediaDatabase/LICENSE",
 		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/database/readme-database.txt",
 		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/license.txt",
 		"/C/Users/Jeff/Documents/GitHub/MusicDatabase/Readme.txt",
@@ -134,61 +120,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Readme.md",
-					"settings":
-					{
-						"buffer_size": 708,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								477,
-								477
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "LICENSE",
-					"settings":
-					{
-						"buffer_size": 156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
